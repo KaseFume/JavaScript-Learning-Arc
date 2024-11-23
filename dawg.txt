@@ -1,1 +1,2 @@
-Note Vanilla JS
+Vanilla JS
+ES6 JS
