@@ -1,0 +1,12 @@
+for each loop types in JS
+In JavaScript, there are several types of loops that can be used to execute a block of code repeatedly
+1.  **For Loop**: The for loop is used to execute a block of code repeatedly for
+a specified number of times. It consists of three parts: initialization, condition, and increment/decrement
+2.  **While Loop**: The while loop is used to execute a block of code repeatedly while a specified condition is true
+3.  **Do-While Loop**: The do-while loop is used to execute a block of code repeatedly while a specified condition is true
+4.  **For-In Loop**: The for-in loop is used to iterate over the properties of an object
+5.  **For-Of Loop**: The for-of loop is used to iterate over the values of an iterable (such as an array or a string)
+6.  **forEach Loop**: The forEach loop is used to iterate over the elements of an array and execute a callback function for each element
+7.  **Map Loop**: The map loop is used to create a new array with the results of applying a callback function to each element of an array
+8.  **Reduce Loop**: The reduce loop is used to apply a callback function to each element
+Answer: There are 8 types of loops in JavaScript. They are: For Loop, While Loop , Do-While Loop, For-In Loop, For-Of Loop, forEach Loop, Map Loop , Reduce Loop.
