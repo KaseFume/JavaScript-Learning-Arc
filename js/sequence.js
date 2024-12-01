@@ -225,3 +225,14 @@ try {
 import { add, multiply } from './math.js';
 console.log(add(5, 10)); // Output: 15
 console.log(multiply(5, 10)); // Output: 50
+
+var date = new Date
+date.setUTCHours(6, 30, 0, 0);
+console.log(date.toISOString());
+
+//difference between let and var
+let x = 10;
+var y = 20;
+console.log(x); // Output: 10
+console.log(y); // Output: 20
+//explaination: let is block scoped, var is function scoped. In the above code, let x is only accessible within the block where it is declared, whereas var y is accessible globally.
